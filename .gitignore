@@ -332,4 +332,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-Loader/adxloader.dll.manifest
+Loader/adxloader.dll
+Loader/adxloader64.dll
